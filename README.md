@@ -1,2 +1,2 @@
 # Macbook-Pro
-nothing
+Control + Shift + m
